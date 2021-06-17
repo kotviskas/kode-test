@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KODEtest</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="instruction">Instruction</string>
+    <string name="lvl">Difficulty:</string>
+    <string name="hint">What\'s in Your Mind</string>
+</resources>
